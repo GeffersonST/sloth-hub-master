@@ -74,7 +74,7 @@ export default function ExamplesNavbar() {
             Design System React
           </NavbarBrand>
           <UncontrolledTooltip placement="bottom" target="navbar-brand">
-            Gefferson Severo
+            Gefferson Severo Ramos
           </UncontrolledTooltip>
           <button
             aria-expanded={collapseOpen}
